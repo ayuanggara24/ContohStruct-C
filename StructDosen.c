@@ -24,5 +24,5 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  	printf("Nama : ");
  	scanf ("%s", &dosen[b].nama);
  	printf("Matkul : ");
- 
+ 	scanf("%s", &dosen[b].matkul);
  }
