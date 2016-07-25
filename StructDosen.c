@@ -19,5 +19,7 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  {
  	dosen[b].nomor=b+1;
  	printf("\n%d.\n", b+1);
+ 	printf("NIP : ");
+ 	
  
  }
