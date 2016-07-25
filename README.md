@@ -1,0 +1,1 @@
+# ContohStruct-C
