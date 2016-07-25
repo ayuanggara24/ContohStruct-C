@@ -17,5 +17,6 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
 
  for(b=0;b<a;b++)
  {
+ 	dosen[b].nomor=b+1;
  
  }
