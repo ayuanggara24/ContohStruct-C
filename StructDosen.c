@@ -14,3 +14,8 @@
 struct data dosen[5];
 printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  scanf ("%d", &a);
+
+ for(b=0;b<a;b++)
+ {
+ 
+ }
