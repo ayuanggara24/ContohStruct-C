@@ -30,4 +30,7 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  printf("\nNOMOR\t NIP\t Nama\t MATKUL\n");
 
  for (c=0;c<b;c++)
- 	
+
+ {
+ 
+ }
