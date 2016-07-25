@@ -4,9 +4,11 @@
  int main (void)
  {
  int a,b,c;
- struct info{
+ struct data{
  int nomor;
  int nip;
  char nama[20];
- char matkul[2];
+ char matkul[15];
  };
+
+struct data dosen[5];
