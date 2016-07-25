@@ -28,3 +28,6 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  }
  printf("\n%d Data Dosen Telah Dimasukkan", b);
  printf("\nNOMOR\t NIP\t Nama\t MATKUL\n");
+
+ for (c=0;c<b;c++)
+ 	
