@@ -36,4 +36,5 @@ printf("Masukkan Jumlah Data Dosen (Maks. 5 orang) : ");
  }
 
  system("pause");
+ return(0);
 
